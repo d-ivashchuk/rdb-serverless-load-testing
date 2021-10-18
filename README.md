@@ -33,5 +33,7 @@ In case of PG bouncer powered db everything works as expected with little perfor
 
 ### Alternatives to the approach
 
-Using serverless oriented DB with serverless functions - [Dynamo](https://aws.amazon.com/dynamodb/?trk=ps_a134p000006padwAAA&trkCampaign=acq_paid_search_brand&sc_channel=PS&sc_campaign=acquisition_EEM&sc_publisher=Google&sc_category=Database&sc_country=EEM&sc_geo=EMEA&sc_outcome=acq&sc_detail=amazon%20dynamodb&sc_content=DynamoDB_e&sc_matchtype=e&sc_segment=536393757514&sc_medium=ACQ-P|PS-GO|Brand|Desktop|SU|Database|DynamoDB|EEM|EN|Text|xx|EU&s_kwcid=AL!4422!3!536393757514!e!!g!!amazon%20dynamodb&ef_id=Cj0KCQjwtrSLBhCLARIsACh6RmgfQwd-go1m8QLhhVuIJDIzEIXaaMOjjfwqqDa2MVCf7JjAoLgaGHsaAhXJEALw_wcB:G:s&s_kwcid=AL!4422!3!536393757514!e!!g!!amazon%20dynamodb), [Aurora](https://aws.amazon.com/rds/aurora/), using [Prisma Data Proxy](https://www.youtube.com/watch?v=iyGZ8JFPgoY)
+Using serverless oriented DB with serverless functions - [Dynamo](https://aws.amazon.com/dynamodb/?trk=ps_a134p000006padwAAA&trkCampaign=acq_paid_search_brand&sc_channel=PS&sc_campaign=acquisition_EEM&sc_publisher=Google&sc_category=Database&sc_country=EEM&sc_geo=EMEA&sc_outcome=acq&sc_detail=amazon%20dynamodb&sc_content=DynamoDB_e&sc_matchtype=e&sc_segment=536393757514&sc_medium=ACQ-P|PS-GO|Brand|Desktop|SU|Database|DynamoDB|EEM|EN|Text|xx|EU&s_kwcid=AL!4422!3!536393757514!e!!g!!amazon%20dynamodb&ef_id=Cj0KCQjwtrSLBhCLARIsACh6RmgfQwd-go1m8QLhhVuIJDIzEIXaaMOjjfwqqDa2MVCf7JjAoLgaGHsaAhXJEALw_wcB:G:s&s_kwcid=AL!4422!3!536393757514!e!!g!!amazon%20dynamodb), [Aurora](https://aws.amazon.com/rds/aurora/)
+
+Using [Prisma Data Proxy](https://www.youtube.com/watch?v=iyGZ8JFPgoY)
 
